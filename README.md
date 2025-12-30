@@ -1,5 +1,6 @@
 # Image-_Caption-Generator
 Built a deep learning–based Image Caption Generator using CNN and LSTM to automatically generate meaningful captions for images. Performed image feature extraction, text preprocessing, and sequence modeling using TensorFlow, Keras, NumPy, and Matplotlib.
+
 Developed an Image Caption Generator using deep learning techniques by combining CNN and LSTM networks. Implemented image feature extraction and sequence modeling to generate meaningful captions for images.
 #DeepLearning #ComputerVision #NLP #ImageCaptioning #Python #TensorFlow #FresherProjects
 # 🛒 Big Mart Sales Prediction
